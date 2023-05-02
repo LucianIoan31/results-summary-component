@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-results-summary-component-created-with-grid-p7WLCBxhxB]
+- Live Site URL: [https://lucianioan31.github.io/results-summary-component/]
 
 ## My process
 
@@ -54,11 +54,11 @@ Users should be able to:
 [@font-face] - a new way for me to use a text font
 [custom-properties] - practiced custom properties
 I think I found a way of code reseting from now one
-I have understand that is better to style some elements inside a media query in order to get it as you want for the larger screens. Until now I was styling the elements for the larger screens and then using a media query so they can look 'default' on little scrrens. Lol, what was I doing? -_-
+I have understand that is better to style some elements inside a media query in order to get it as you want for the larger screens. Until now I was styling the elements for the larger screens and then using a media query so they can look 'default' on little screens. Lol, what was I doing? -_-
 
 ### Continued development
 
-I struggled a lot in finding the best sizes of the containers, padding, margin and fonts. Using percentages is difficult at the moment. I got a lot of frustration when on a regular window it was looking ok, but maximazing the browser's window was making me design look ugly in different ways: or too large, or too streched or the main container broken. This is something I need to learn. 
+I struggled a lot in finding the best sizes of the containers, padding, margin and fonts. Using percentages is difficult at the moment. I got a lot of frustration when on a regular window it was looking ok, but maximizing the browser's window was making me design look ugly in different ways: or too large, or too stretched or the main container broken. This is something I need to learn. 
 
 ### Useful resources
 
